@@ -7,6 +7,25 @@
 //Teste larissa
 
 int main() {
+
+    char carta = 01;
+    char estado[20] = "R";
+    char codigo = '01';
+    char cidade[20] = "Rio de Janeiro";
+    int populaçao = 6.211223;
+    float area = 1.200;
+    float pib = 359.600000000;
+    int pontos_turisticos = 58;
+
+     printf
+
+
+
+
+
+
+
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
