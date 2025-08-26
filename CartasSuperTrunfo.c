@@ -11,7 +11,7 @@ int main() {
     char estado[20] = "RJ";
     char código[20] = "RJ01";
     char cidade[20] = "Rio de Janeiro";
-    int população = 6.211223;
+    int população = 6211223;
     float área = 1200.0;
     float pib = 359600000000;
     int pontos_turísticos = 58;
@@ -31,7 +31,7 @@ int main() {
     char estado2[20] = "RJ";
     char código2[20] = "RJ02";
     char cidade2[20] = "Niterói";
-    int população2 = 481.749;
+    int população2 = 481749;
     float área2 = 133757;
     float pib2 = 66345730.0;
     int pontos_turísticos2 = 21;
